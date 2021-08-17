@@ -1,0 +1,6 @@
+product_name = "iMac 27 Inches"
+price = "US$ 1799.00"
+display = "5K"
+processor = "Up to Intel Core i9 processor"
+storage = "8TB"
+camera = "1080p FaceTime HD camera"
